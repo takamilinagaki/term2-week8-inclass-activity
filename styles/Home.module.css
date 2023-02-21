@@ -1,0 +1,38 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10rem;
+  min-height: 100vh;
+  background-color: var(--background-colour);
+  font-family: var(--font);
+}
+
+.title{
+  font-size: 30px;
+}
+
+
+.links{
+  padding-top: 30px;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto auto;
+  gap: 20px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.contents{
+  border-style: dotted;
+  margin-top: 10em;
+  padding: 6rem;
+  text-align: center;
+  font-size: 15px;
+}
+
+.example_title{
+  padding-bottom: 20px;
+}
+
+

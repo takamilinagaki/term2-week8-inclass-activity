@@ -1,0 +1,13 @@
+
+
+.leftArrow{
+    position: absolute;
+    width: 50px;
+    top: 550px;
+}
+
+.rightArrow{
+    position: absolute;
+    width: 1550px;
+    top: 550px;
+}
